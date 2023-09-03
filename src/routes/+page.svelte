@@ -11,7 +11,7 @@
 	</p>
 
 	<p>
-		This is me getting beaten up when I was doing boxing: https://www.youtube.com/watch?v=quyL5Lv5Nfw&t=20s&ab_channel=boksehaakon
+		This is me getting beaten up when I was doing boxing at the 48 kg weight limit: https://www.youtube.com/watch?v=quyL5Lv5Nfw&t=20s&ab_channel=boksehaakon
 	</p>
 
 	<p>
