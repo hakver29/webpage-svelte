@@ -51,7 +51,6 @@
 
 <div class="text-column">
 	<h1>Resume</h1>
-
 	<p>
 		I am 4x Certified in Azure and Google Cloud Platform. 482.5 student credits from NTNU, Trondheim. I was also a finalist in the National Math Competition for High school students in 2013. I generally enjoy thinking about complex problems.
 	</p>
