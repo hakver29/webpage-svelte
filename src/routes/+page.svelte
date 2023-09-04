@@ -15,6 +15,6 @@
 	</p>
 
 	<p>
-		This page has been written in Svelte as part of a hobby project.
+		This page has been written in Svelte as part of a hobby project. I really like Svelte!
 	</p>
 </div>
