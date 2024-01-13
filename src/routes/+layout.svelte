@@ -17,9 +17,9 @@
 	<footer>
 		<div class="footer-content">
 			<div class="footer-contact">
-				<p>Email: <a href="mailto:{email}">{email}</a></p>
-				<p>LinkedIn: <a href="{linkedin}" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
-				<p>GitHub: <a href="{github}" target="_blank" rel="noopener noreferrer">GitHub</a></p>
+				<p><a href="mailto:{email}">Email</a></p>
+				<p><a href="{linkedin}" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
+				<p><a href="{github}" target="_blank" rel="noopener noreferrer">GitHub</a></p>
 			</div>
 		</div>
 	</footer>

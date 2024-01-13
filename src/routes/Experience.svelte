@@ -7,8 +7,8 @@
 </script>
 
 <div class="experience">
-    <h3>{jobTitle}</h3>
-    <p>{company}</p>
+    <h3>{jobTitle} - {company}</h3>
+    <p>{description}</p>
     <p>{startDate} - {endDate}</p>
 </div>
 

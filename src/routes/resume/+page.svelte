@@ -6,22 +6,22 @@
 		{
 			jobTitle: 'Fullstack Developer',
 			company: 'Storebrand',
-			startDate: 'October 2021',
-			endDate: 'Present',
-			description: 'React, Java 11, PostgreSQL, Couchbase',
+			startDate: 'Oct 2021',
+			endDate: 'May 2024',
+			description: 'React, Angular, Java, Kotlin, PostgreSQL, Couchbase',
 		},
 		{
 			jobTitle: 'Fullstack Developer',
 			company: 'Apcoa Parking Norway',
-			startDate: 'February 2021',
-			endDate: 'October 2021',
+			startDate: 'Feb 2021',
+			endDate: 'Oct 2021',
 			description: 'Node, Angular, Ionic, PostgreSQL',
 		},
 		{
 			jobTitle: 'Fullstack Developer',
 			company: 'SuperEgo AS',
-			startDate: 'October 2020',
-			endDate: 'February 2021',
+			startDate: 'Oct 2020',
+			endDate: 'Feb 2021',
 			description: 'React, Android, PHP.',
 		},
 	];
@@ -32,14 +32,14 @@
 			university: 'NTNU',
 			startDate: 'Aug 2016',
 			endDate: 'Jun 2020',
-			description: 'Integrated 5-year engineering program.'
+			description: 'Master\'s thesis: Scenario Generation for Energy Market Modeling'
 		},
 		{
 			degree: 'Bachelor in mathematics',
 			university: 'NTNU',
 			startDate: 'Aug 2013',
 			endDate: 'Jun 2016',
-			description: ''
+			description: 'Bachelor\'s degree: Mordell\'s theorem and elliptic curves'
 		},
 	];
 </script>
@@ -52,7 +52,7 @@
 <div class="text-column">
 	<h1>Resume</h1>
 	<p>
-		I am 4x Certified in Azure and Google Cloud Platform. 482.5 student credits from NTNU, Trondheim. I was also a finalist in the National Math Competition for High school students in 2013. I generally enjoy thinking about complex problems.
+		I have a total of 482.5 student credits from NTNU, Trondheim. I was a finalist in the National Math Competition for High school students in 2013, and I have somewhere over 100 computational problems solved at <a href="https://projecteuler.net/">Project Euler</a>.
 	</p>
 
 	<h2>Work Experience</h2>
@@ -67,6 +67,7 @@
 
 	<h2>Certifications and Courses</h2>
 	<ul>
+	    <li>AZ-400: Microsoft Certified: DevOps Engineer Expert</li>
 		<li>AZ-204: Developing Solutions for Microsoft Azure</li>
 		<li>AZ-104: Microsoft Azure Administrator </li>
 		<li>AZ-900: Microsoft Azure Fundamentals </li>

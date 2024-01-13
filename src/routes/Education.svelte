@@ -7,8 +7,8 @@
 </script>
 
 <div class="education">
-    <h3>{degree}</h3>
-    <p>{university}</p>
+    <h3>{degree} - {university}</h3>
+    <p>{description}</p>
     <p>{startDate} - {endDate}</p>
 </div>
 
