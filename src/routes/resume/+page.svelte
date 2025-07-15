@@ -7,7 +7,7 @@
 			jobTitle: 'Fullstack Developer',
 			company: 'Storebrand',
 			startDate: 'Oct 2021',
-			endDate: 'May 2024',
+			endDate: '',
 			description: 'React, Angular, Java, Kotlin, PostgreSQL, Couchbase',
 		},
 		{
@@ -51,10 +51,6 @@
 
 <div class="text-column">
 	<h1>Resume</h1>
-	<p>
-		I have a total of 482.5 student credits from NTNU, Trondheim. I was a finalist in the National Math Competition for High school students in 2013, and I have somewhere over 100 computational problems solved at <a href="https://projecteuler.net/">Project Euler</a>.
-	</p>
-
 	<h2>Work Experience</h2>
 	{#each experiences as experience (experience.company)}
 		<Experience {...experience} />
